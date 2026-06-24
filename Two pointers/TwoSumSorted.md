@@ -1,4 +1,7 @@
 
+# Two Sum Sorted
+
+```java
 package TwoPointers;
 
 public class TwoSumSorted {
@@ -26,3 +29,4 @@ public class TwoSumSorted {
         }
     }
 }
+```

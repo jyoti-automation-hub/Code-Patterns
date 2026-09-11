@@ -4,8 +4,8 @@
 |---|---|---|
 | 1 | 485.1 Max Consecutive Ones (Theory) |  ✅ |
 | 2 | 485.2 Max Consecutive Ones (Code) | ✅ |
-| 3 | 1295.1 Find Number with Even Number of Digits (Theory) | - [ ] |
-| 4 | 1295.2 Find Number with Even Number of Digits (Code) | - [ ] |
+| 3 | 1295.1 Find Number with Even Number of Digits (Theory) | ✅ |
+| 4 | 1295.2 Find Number with Even Number of Digits (Code) | ✅ |
 | 5 | 724.1 Find Pivot Index (Theory) | - [ ] |
 | 6 | 724.2 Find Pivot Index (Code) | - [ ] |
 | 7 | 118.1 Pascal's Triangle (Theory) | - [ ] |
